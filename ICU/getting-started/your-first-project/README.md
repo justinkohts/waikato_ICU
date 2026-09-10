@@ -125,7 +125,7 @@ Push to your main branch (or click **Deploy** manually). The platform will:
 5. Promote to your live URL
 
 {% hint style="success" %}
-You'll get a notification when the build completes — by email, Slack, or whatever you configured under [automations.md](../guides/automations.md "mention").
+You'll get a notification when the build completes — by email, Slack, or whatever you configured under [automations.md](../../procedures/automations.md "mention").
 {% endhint %}
 
 ## Sample project
@@ -138,14 +138,14 @@ If you'd like to skip ahead and see a fully configured project, download our sam
 
 Now that you have a working project, you can check out:
 
-{% content-ref url="../guides/custom-domains.md" %}
-[custom-domains.md](../guides/custom-domains.md)
+{% content-ref url="../../procedures/custom-domains.md" %}
+[custom-domains.md](../../procedures/custom-domains.md)
 {% endcontent-ref %}
 
-{% content-ref url="../guides/automations.md" %}
-[automations.md](../guides/automations.md)
+{% content-ref url="../../procedures/automations.md" %}
+[automations.md](../../procedures/automations.md)
 {% endcontent-ref %}
 
-{% content-ref url="../core-concepts/permissions.md" %}
-[permissions.md](../core-concepts/permissions.md)
+{% content-ref url="../../core-concepts/permissions.md" %}
+[permissions.md](../../core-concepts/permissions.md)
 {% endcontent-ref %}

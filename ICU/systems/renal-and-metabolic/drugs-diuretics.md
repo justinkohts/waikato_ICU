@@ -1,0 +1,6 @@
+---
+icon: capsule
+---
+
+# Drugs - Diuretics
+
