@@ -11,9 +11,33 @@ This quickstart gets you to your first deploy as fast as possible. We'll skip mo
 **Estimated time: 5 minutes.** All you need is an account and a project to deploy.
 {% endhint %}
 
+##
+
+{% prompt description="" %}
+```markdown
+// add agent instructions
+```
+{% endprompt %}
+
+>
+
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td>Card A</td></tr><tr><td>Card B</td></tr><tr><td>Card C</td></tr></tbody></table>
+
 ## Steps
 
 {% stepper %}
+{% step %}
+###
+
+
+{% endstep %}
+
+{% step %}
+###
+
+
+{% endstep %}
+
 {% step %}
 #### Create your workspace
 
